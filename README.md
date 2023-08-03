@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lara Drews
+- 👀 I’m interested in learning more about TI
+- 🌱 I’m currently learning CSS and Java
+- 📫 How to reach me @laraedrews@gmail.com
